@@ -1,7 +1,8 @@
 # hospital-project-dashboard
 A Power BI project 
+
 Data Analyze Hospital Insights                                                                                                            
-01/2025 – 02/2025
+
 Developed a comprehensive data analysis project for hospital insights, focusing on patient visits across different medical specialties
 
 •	Collected, cleaned, and analyzed hospital admission data to identify trends in patient flow and specialist demand
